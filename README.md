@@ -7,7 +7,6 @@ This can be used as a raw structure
 - Webpack, babel-loader, css-loader, style-loader, svg-inline-loader
 - Github
 
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -16,7 +15,7 @@ To get a local copy up and running follow these simple example steps.
 WebPack package installing
 
 ### Setup
-Run https://github.com/lisandroseia/to-do-list.git to clon the repository
+Run https://github.com/subratsir/webpack-intro.git to clon the repository
 
 ### Install
 run the following comands:
