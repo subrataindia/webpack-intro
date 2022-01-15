@@ -18,11 +18,17 @@ WebPack package installing
 Run https://github.com/subratsir/webpack-intro.git to clon the repository
 
 ### Install
+
 run the following comands:
+
 npm i webpack webpack-cli --save-dev
+
 npm i --save-dev babel-loader
+
 npm i --save-dev html-webpack-plugin
+
 npm i --save-dev style-loader css-loader
+
 npm i --save-dev webpack-dev-server
 
 
