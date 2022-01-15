@@ -34,7 +34,7 @@ Run the comand npm run start to get a working environment with the project I mad
 👤 **Subrat**
 
 - GitHub: [@subratsir](https://github.com/subratsir)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/subrata-ku-das/)
+- LinkedIn: [subrata-ku-das](https://www.linkedin.com/in/subrata-ku-das/)
 - Twitter: [@SubratSirIndia](https://twitter.com/SubratSirIndia)
 
 ## 🤝 Contributing
