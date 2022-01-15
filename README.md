@@ -25,6 +25,7 @@ npm i --save-dev html-webpack-plugin
 npm i --save-dev style-loader css-loader
 npm i --save-dev webpack-dev-server
 
+
 ### Usage
 Run the comand npm run start to get a working environment with the project I made
 
